@@ -322,3 +322,12 @@ footer a {
 .button-hover-effect:hover {
     background: linear-gradient(to bottom, #642ee3e2, #9e62f2e6);
 }
+
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.color-white{
+    color: #9F62F2;
+}
