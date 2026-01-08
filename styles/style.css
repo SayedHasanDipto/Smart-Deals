@@ -14,7 +14,7 @@
 :root {
     --dark-color: #001931;
     --light-color: #A1A1AA;
-    --gradient-color:
+    --view-hover-color: #ebdbecdb;
 }
 
 
@@ -304,4 +304,21 @@ footer a {
 
 .hover{
     cursor: pointer;
+}
+
+.view-effect{
+    transition: 0.3s;
+}
+
+.view-effect:hover{
+    background-color: var(--view-hover-color);
+    color: #9F62F2;
+}
+
+.button-hover-effect {
+    transition: 3s ease-in-out;
+}
+
+.button-hover-effect:hover {
+    background: linear-gradient(to bottom, #642ee3e2, #9e62f2e6);
 }
