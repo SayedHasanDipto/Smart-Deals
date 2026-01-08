@@ -434,3 +434,15 @@ label {
     font-weight: 600;
     margin-bottom: 24px;
 }
+
+.nav-button button a {
+    color: #8A70D6;
+}
+
+.white {
+    color: white;
+}
+
+#color-white{
+    color: white;
+}
