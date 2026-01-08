@@ -45,6 +45,7 @@
     display: flex;
     gap: 32px;
     align-items: center;
+    margin-top: 14px;
 }
 
 .navbar ul li {
@@ -77,6 +78,7 @@
 .navbar .logo2 {
     width: 50px;
     border-radius: 30px;
+    margin-top: 7px;
 }
 
 .hero {
