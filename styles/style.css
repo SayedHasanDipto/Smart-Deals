@@ -153,6 +153,7 @@
     margin: 0px 6px;
     padding: 18px 10px;
     border: none;
+    cursor: pointer;
     border-radius: 5px;
 }
 
@@ -227,6 +228,7 @@
 
 .product-btn {
     padding: 16px 39px;
+    cursor: pointer;
 }
 
 .button-product {
