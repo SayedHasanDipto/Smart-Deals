@@ -26,6 +26,8 @@
     align-items: center;
     justify-content: space-around;
     height: 78px;
+    width: 92%;
+    margin: 0px auto;
 }
 
 .navbar .logo1 h3 {
@@ -252,7 +254,7 @@ footer {
 
 .footer-content {
     /* border: 2px solid rgb(50, 60, 207); */
-    width: 1140px;
+    width: 1440px;
     display: flex;
     justify-content: space-between;
 }
@@ -302,15 +304,15 @@ footer a {
     padding-bottom: 30px;
 }
 
-.hover{
+.hover {
     cursor: pointer;
 }
 
-.view-effect{
+.view-effect {
     transition: 0.3s;
 }
 
-.view-effect:hover{
+.view-effect:hover {
     background-color: var(--view-hover-color);
     color: #9F62F2;
 }
@@ -323,11 +325,14 @@ footer a {
     background: linear-gradient(to bottom, #642ee3e2, #9e62f2e6);
 }
 
-a{
+a {
     text-decoration: none;
     color: white;
 }
 
-.color-white{
+.color-white {
     color: #9F62F2;
 }
+
+
+/* All Product Page Css */
