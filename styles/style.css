@@ -158,11 +158,13 @@
 }
 
 .fill-button {
+    cursor: pointer;
     background: linear-gradient(to bottom, #632EE3, #9F62F2);
     color: white;
 }
 
 .unfill-button {
+    cursor: pointer;
     border: 1px solid #9F62F2;
     padding: 16px;
     color: #6634db;
